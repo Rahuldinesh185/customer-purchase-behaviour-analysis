@@ -49,5 +49,7 @@ Marketing and Category Analysis
 
 Customer Behavior Insights
 
-Regional Performance Breakdown
+Regional Performance Break
 
+# Result 
+https://github.com/Rahuldinesh185/customer-purchase-behaviour-analysis/blob/main/Screenshot%202024-10-10%20143652.png
